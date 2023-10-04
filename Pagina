@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jardines de Dani</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jardines de Dani</h1>
+    </header>
+    
+    <div class="container">
+        <h2>¡Bienvenido a nuestra tienda de cactus!</h2>
+        <p>Somos apasionados por los cactus y ofrecemos una amplia variedad de especies y tamaños para satisfacer tus necesidades. Nuestros cactus son cuidadosamente cultivados y seleccionados para garantizar la mejor calidad.</p>
+
+        <h3>Nuestros productos</h3>
+        <p>Ofrecemos cactus de interior y exterior, así como macetas y sustratos especializados para el cuidado de cactus. Ya sea que estés buscando un cactus pequeño para decorar tu escritorio o un cactus grande para tu jardín, ¡tenemos lo que necesitas!</p>
+
+        <h3>Envío y atención al cliente</h3>
+        <p>Nos preocupamos por la satisfacción de nuestros clientes. Ofrecemos envío rápido y seguro para que tus cactus lleguen en perfecto estado. Si tienes alguna pregunta o necesitas asistencia, nuestro equipo de atención al cliente está aquí para ayudarte.</p>
+
+        <h3>Contáctanos</h3>
+        <p>Si deseas hacer un pedido o tienes alguna pregunta, no dudes en ponerte en contacto con nosotros. Estamos disponibles por correo electrónico o teléfono.</p>
+
+        <p>Email: info@jardinesdedani.com<br>Teléfono: +57 (311) 5627948</p>
+
+	<img src="cactus.jpg" alt="Cactus en venta" width="100" height="50">
+
+    </div>
+</body>
+</html>
